@@ -1,0 +1,24 @@
+{
+  "name": "lender-status-dashboard",
+  "version": "1.0.0",
+  "description": "Monitoring tool for lender uptime",
+  "main": "webpack.config.js",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-command": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssunkari/react-lender-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssunkari/react-lender-dashboard/issues"
+  },
+  "homepage": "https://github.com/ssunkari/react-lender-dashboard#readme"
+}
