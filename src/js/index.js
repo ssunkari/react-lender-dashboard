@@ -27,11 +27,7 @@ class Clock extends React.Component {
     }
 
     render() {
-        return (
-            // <svg width="400" height="180">
-            //   <rect x="50" y="20" width="150" height="150"
-            //   style="fill:blue;stroke:pink;stroke-width:5;opacity:0.5" />
-            // </svg>  
+        return ( 
             <div>
                 <h2>It is {this.state.date.toLocaleTimeString()}.</h2>
             </div>
